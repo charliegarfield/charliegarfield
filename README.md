@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @charliegarfield.
-- 👀 I’m interested in robotics, mostly, but I do some other stuff too.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in data analysis and optimizing things, and I love just making things in general.
+- 🌱 I’m currently imporving my C# and JS skills.
 - 💞️ I’m looking to collaborate on anything, really, if you have need for someone decent at data science and statistics who knows python and java.
-- 📫 You can reach me at c22cg@dalton.org.
+- 📫 You can reach me at charliejgarfield@gmail.com
+- 🔎 I've also done a lot of work with the Flashpoint Project as curation-bot-guy, started back when I didn't want to get doxxed online.
 
 <!---
 charliegarfield/charliegarfield is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
