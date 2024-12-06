@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Charlie Garfield.
+- 👋 Hi, I’m Charlie J Garfield.
 - 👀 I’m interested in data analysis and optimizing things, and I love just making things in general.
 - 🌱 I’m currently imporving my C# and JS skills.
 - 💞️ I’m looking to collaborate on anything, really, if you have need for someone decent at data science and statistics who knows python and java.
